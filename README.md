@@ -1,2 +1,2 @@
 # latihan-python
-untuk persiapan bangkit
+untuk persiapan Bangkit
